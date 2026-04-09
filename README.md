@@ -85,7 +85,6 @@ _Mimicking local youth subculture speech._
 
     ```bash
     git clone https://github.com/Omega1424/Paktor-Anot.git
-    cd "NLP Project Interface"
     ```
 
 2.  **Backend Setup**
